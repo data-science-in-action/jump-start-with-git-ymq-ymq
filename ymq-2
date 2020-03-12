@@ -1,0 +1,9 @@
+mkdir learning
+cd learning
+touch first.txt
+git init
+git add first.txt
+git commit -m "initial commit"
+前往GitHub并创建一个存储库y1
+git remote add origin 
+git push -u origin master
